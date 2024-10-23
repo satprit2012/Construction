@@ -1,0 +1,19 @@
+﻿.divs {
+    justify-content: center;
+    display: flex;   
+}
+.heading h1{
+    text-align: center;
+    display:block
+}
+.gridview td {
+    padding: 5px 50px 5px 5px;
+}
+.gridViewHeader {   
+    color: #FFFFFF;
+    text-align: left;
+}
+.gridViewRow {
+    color: #000000;
+    padding: 5px 50px 5px 5px;
+}
